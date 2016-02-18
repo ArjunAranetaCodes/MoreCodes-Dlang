@@ -1,0 +1,21 @@
+/*
+Arjun C. Araneta
+more-codes.com
+
+Write a program that has a function that accepts a name and concatenates 
+it to "Hello ". 
+
+Output:
+
+Hello Mark
+*/
+
+import std.stdio;
+
+void PrintHello(string strName){
+	writeln("Hello ", strName);
+}
+
+void main(){
+	PrintHello("Mark");
+}
