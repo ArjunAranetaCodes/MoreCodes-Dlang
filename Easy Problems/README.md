@@ -1,5 +1,5 @@
 # MoreCodes - D Programming Problems
-This repository is for D Programming codes of my blog: https://more-codes.com/
+This repository is for D Programming codes of my blog: http://more-codes.com/
 
 - - - -
 ### D Programming Easy Problems
